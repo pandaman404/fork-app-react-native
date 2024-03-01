@@ -1,0 +1,68 @@
+{
+  "expo": {
+    "name": "forkApp",
+    "slug": "forkApp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./src/assets/icon_dev.png",
+    "splash": {
+      "image": "./src/assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "config": {
+        "googleMapsApiKey": "MIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC4e57ShIWfN68/\nUfK5qG/zI317WJmEl3VZ5exZmSeLEhIxBT7d5Jkaz77tC8gnuHyBPeO4H5MlXSfx\nNsCWtizMfmnV0eKbxMMVx5jzLRBONcyav+KR0wyo4KoO4LULdIQZtEp9SJgbszNx\ngb05xWiXtC2t4+LBsM5NdtMVLhVikXcqpvpVor37zb+SEuvRdCPifI1YkSB7P7CB\nmAzHeD0iTkSRAmIRQa/NNlCHQqIp/Vb+X4XCR0iTnsWT0G0/TS9KRY2hLBhpexSQ\nZpitp5j9DkkTUU536ZZ0uWvau76JF2o4jJsYfpyuxvl5hguptMDLe6zTlQGPSWGv\n9ZJCShMFAgMBAAECggEAAphqoZePsa+83W0vtwDxokALkeKrNjxTQFKFwrTu43v7\nmYjzW3fN15y4mOkjhbuItODEBWEcVtg6qaAVkYk6lB3rK0DqqTpZbEMEmdc2dYM4\nP60XaOnJMc8HVXI/2ctn2Fy694w/55Pb02r52Ig4cnnscpfUJtlv7ZMQYSnmzx4q\nnq93lvu2fmbp9SvaKAP9y54Whjoeuf4B2unBg+Mrv/VI9kmGz0YeMTzMVJts1Pjs\ngceXZUalM3NIJK+OSIiGcR7ocoMvlOktsnm6oqPi1X23cfP6fBf0lipusCnAuiCX\nFlUK6eOxlQ+Mpoq+Mcy5OIG+J0qch3Ksc2vS5LinAQKBgQD3Iw2wIA0PuoVFuaZi\n7/kjdlnwNRFhKA7KzBjvGErdlVdu1Y2DWm3Iu/vN0VJGpQ2H4nm5GbNl2JLttzql\n1CpjpE1WfpnYDZwMtt5KpflqYjrQAhhU6O8b7aWZwSL91KiCimK8zrK12bidrZ2K\nVXwXC8M6Aouvp1oTFM2oVrSUJQKBgQC/GVg93gni+l4IiZ9BSCwzEIprEqkhlaAA\nqfFkTurWExAftTZexQIkVLOwaV+TfuVnEd/rg+ph3wH1247Ym8d0AcbpjUslHyF/\n5MxM0R1kFoIjFdM7EMzBBNnUthKsvyx8P56xmrQre1YTBmJ4SxTW8W5oiKIUzg5u\nybnfxfLdYQKBgEL27piQtrlSUxZnjZw1Zg6j3Q7nckQfNJLi5saykGamNsDDgMrc\nz+6acUp9s4uM4bO2PEFZo3CvVHCxO2T/rlS9im8rcshGN8iCLI2Rl5mp8EG4r5si\nWtf4duzIlpCs9NQaZ1K9t1LrIckn6A45x5v/BfFMC0mXUSLmeitpAxk5AoGADHui\nWQA9ExeZtuMOhRwqzvcgo5fndmsotYJkY1IIYw2BuyCCObSSzD7AMiDf/mmGoLH5\nN5A5akVAAohiD2I1qC1Jig4Rv44GCS2v7sCmM9iIjbQqRSx2w5EGja+LDr+6Ly+U\ntTNO25xF5h4/pm35IYVJ2gg61jMTnEcPHj/2+mECgYBxRhtm2Ty+PPGoVvhYKAOn\nT3WvRyep24IYIGFf8AZNAATAdl48eZwqq++ONr2iBP23QpJrpHRQ/VgJaw9oxp+C\nL0wKxSFjpC+NTvZ9AenGWb4O6CzQiBRLKsLx4yTfXVahqz/xk1PDJx0ACAvVFNz3\n8f/+JpdYQ9EHhU4tWgjcNg=="
+      },
+      "googleServicesFile": "./src/firebase/GoogleService-Info.plist"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./src/assets/adaptative_android_icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "config": {
+        "googleMaps": {
+          "apiKey": "MIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC4e57ShIWfN68/\nUfK5qG/zI317WJmEl3VZ5exZmSeLEhIxBT7d5Jkaz77tC8gnuHyBPeO4H5MlXSfx\nNsCWtizMfmnV0eKbxMMVx5jzLRBONcyav+KR0wyo4KoO4LULdIQZtEp9SJgbszNx\ngb05xWiXtC2t4+LBsM5NdtMVLhVikXcqpvpVor37zb+SEuvRdCPifI1YkSB7P7CB\nmAzHeD0iTkSRAmIRQa/NNlCHQqIp/Vb+X4XCR0iTnsWT0G0/TS9KRY2hLBhpexSQ\nZpitp5j9DkkTUU536ZZ0uWvau76JF2o4jJsYfpyuxvl5hguptMDLe6zTlQGPSWGv\n9ZJCShMFAgMBAAECggEAAphqoZePsa+83W0vtwDxokALkeKrNjxTQFKFwrTu43v7\nmYjzW3fN15y4mOkjhbuItODEBWEcVtg6qaAVkYk6lB3rK0DqqTpZbEMEmdc2dYM4\nP60XaOnJMc8HVXI/2ctn2Fy694w/55Pb02r52Ig4cnnscpfUJtlv7ZMQYSnmzx4q\nnq93lvu2fmbp9SvaKAP9y54Whjoeuf4B2unBg+Mrv/VI9kmGz0YeMTzMVJts1Pjs\ngceXZUalM3NIJK+OSIiGcR7ocoMvlOktsnm6oqPi1X23cfP6fBf0lipusCnAuiCX\nFlUK6eOxlQ+Mpoq+Mcy5OIG+J0qch3Ksc2vS5LinAQKBgQD3Iw2wIA0PuoVFuaZi\n7/kjdlnwNRFhKA7KzBjvGErdlVdu1Y2DWm3Iu/vN0VJGpQ2H4nm5GbNl2JLttzql\n1CpjpE1WfpnYDZwMtt5KpflqYjrQAhhU6O8b7aWZwSL91KiCimK8zrK12bidrZ2K\nVXwXC8M6Aouvp1oTFM2oVrSUJQKBgQC/GVg93gni+l4IiZ9BSCwzEIprEqkhlaAA\nqfFkTurWExAftTZexQIkVLOwaV+TfuVnEd/rg+ph3wH1247Ym8d0AcbpjUslHyF/\n5MxM0R1kFoIjFdM7EMzBBNnUthKsvyx8P56xmrQre1YTBmJ4SxTW8W5oiKIUzg5u\nybnfxfLdYQKBgEL27piQtrlSUxZnjZw1Zg6j3Q7nckQfNJLi5saykGamNsDDgMrc\nz+6acUp9s4uM4bO2PEFZo3CvVHCxO2T/rlS9im8rcshGN8iCLI2Rl5mp8EG4r5si\nWtf4duzIlpCs9NQaZ1K9t1LrIckn6A45x5v/BfFMC0mXUSLmeitpAxk5AoGADHui\nWQA9ExeZtuMOhRwqzvcgo5fndmsotYJkY1IIYw2BuyCCObSSzD7AMiDf/mmGoLH5\nN5A5akVAAohiD2I1qC1Jig4Rv44GCS2v7sCmM9iIjbQqRSx2w5EGja+LDr+6Ly+U\ntTNO25xF5h4/pm35IYVJ2gg61jMTnEcPHj/2+mECgYBxRhtm2Ty+PPGoVvhYKAOn\nT3WvRyep24IYIGFf8AZNAATAdl48eZwqq++ONr2iBP23QpJrpHRQ/VgJaw9oxp+C\nL0wKxSFjpC+NTvZ9AenGWb4O6CzQiBRLKsLx4yTfXVahqz/xk1PDJx0ACAvVFNz3\n8f/+JpdYQ9EHhU4tWgjcNg=="
+        }
+      },
+      "googleServicesFile": "./src/firebase/google-services.json"
+    },
+    "web": {
+      "favicon": "./src/assets/favicon.png",
+      "config": {
+        "firebase": {
+          "apiKey": "AIzaSyA5uQ6BjgUSS18abwDRJDbUp7cYPwfHbl0",
+          "authDomain": "fork-chile.firebaseapp.com",
+          "databaseURL": "https://fork-chile.firebaseio.com",
+          "projectId": "fork-chile",
+          "storageBucket": "fork-chile.appspot.com",
+          "messagingSenderId": "299955720918",
+          "appId": "1:299955720918:web:ac8fef1699b278e6b1ef77",
+          "measurementId": "G-WFBF3Y7LW7"
+        }
+      }
+    },
+    "packagerOpts": {
+      "config": "metro.config.js",
+      "sourceExts": [
+        "expo.ts",
+        "expo.tsx",
+        "expo.js",
+        "expo.jsx",
+        "ts",
+        "tsx",
+        "js",
+        "jsx",
+        "json",
+        "wasm",
+        "svg"
+      ]
+    }
+  }
+}

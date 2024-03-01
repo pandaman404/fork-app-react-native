@@ -1,0 +1,162 @@
+{
+  "project_info": {
+    "project_number": "299955720918",
+    "firebase_url": "https://fork-chile.firebaseio.com",
+    "project_id": "fork-chile",
+    "storage_bucket": "fork-chile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299955720918:android:f7ecdb472d96375cb1ef77",
+        "android_client_info": {
+          "package_name": "cl.forkchile.fork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299955720918-n9j6otbkh9col34mhobpmkdg8hgrb9to.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cl.forkchile.fork",
+            "certificate_hash": "0078526a5864d2035b4c7dca2f6f37c7e735f39f"
+          }
+        },
+        {
+          "client_id": "299955720918-osqton0sh9g4ips0ogvgjl1jfjgc1dpo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cl.forkchile.fork",
+            "certificate_hash": "6da463582a8492ff124fd3bc1049dfde4395d704"
+          }
+        },
+        {
+          "client_id": "299955720918-62rjkrf03mfduf7ispf561ouhbunirl9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB995wF_4WIDAsSvV63T6tfnXFgf2I6VUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299955720918-62rjkrf03mfduf7ispf561ouhbunirl9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "299955720918-q7007f7qjvhr6bc5uduro9a1qtg00ss7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "cl.betterfood.Fork",
+                "app_store_id": "1350973195"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299955720918:android:5242ee209105c6dfb1ef77",
+        "android_client_info": {
+          "package_name": "cl.forkchile.fork.mocking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299955720918-3q0rj4qodlrumqfqpjm20ju3irlo7elu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cl.forkchile.fork.mocking",
+            "certificate_hash": "db0b31c9692664e94fc7c6b2bffde409b680723e"
+          }
+        },
+        {
+          "client_id": "299955720918-62rjkrf03mfduf7ispf561ouhbunirl9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB995wF_4WIDAsSvV63T6tfnXFgf2I6VUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299955720918-62rjkrf03mfduf7ispf561ouhbunirl9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "299955720918-q7007f7qjvhr6bc5uduro9a1qtg00ss7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "cl.betterfood.Fork",
+                "app_store_id": "1350973195"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299955720918:android:48895f100a22a652b1ef77",
+        "android_client_info": {
+          "package_name": "cl.forkchile.fork.staging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299955720918-r2e85vl5apenu47atndqbms720uao5s2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cl.forkchile.fork.staging",
+            "certificate_hash": "6da463582a8492ff124fd3bc1049dfde4395d704"
+          }
+        },
+        {
+          "client_id": "299955720918-t9dvke1ben883kkbmudce98bccvkqo0p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cl.forkchile.fork.staging",
+            "certificate_hash": "e94cd888603a6f40c3c380a8e13b7e53b2d4ac6c"
+          }
+        },
+        {
+          "client_id": "299955720918-62rjkrf03mfduf7ispf561ouhbunirl9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB995wF_4WIDAsSvV63T6tfnXFgf2I6VUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299955720918-62rjkrf03mfduf7ispf561ouhbunirl9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "299955720918-q7007f7qjvhr6bc5uduro9a1qtg00ss7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "cl.betterfood.Fork",
+                "app_store_id": "1350973195"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
